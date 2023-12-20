@@ -1,0 +1,102 @@
+main {
+    text-align: center;
+    border: 1px solid rgb(111, 119, 127);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    width: 350px;
+    height: 400px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 0, 10px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+main:hover,
+footer:hover {
+    background-image: linear-gradient(white, rgb(213, 134, 255));
+    box-shadow: 40px 40px 40px rgba(0, 0, 0, 0.5);
+}
+
+input {
+    width: 258px;
+    height: 36px;
+    border: 2px;
+    border-radius: 4px;
+    padding-left: 20px;
+}
+
+button {
+    color: white;
+    font-weight: 500;
+    height: 36px;
+    width: 268px;
+    border-radius: 10px;
+    background-color: rgb(108, 152, 255);
+    border: 1px;
+}
+
+#facebook {
+    height: 15px;
+    padding-right: 5px;
+}
+
+body {
+    background-image: linear-gradient(rgb(213, 134, 255), white);
+}
+
+.or {
+    text-align: center;
+    font-size: small;
+    color: #393838;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.outer2 {
+    display: inline;
+}
+
+.outer {
+    display: inline-block;
+}
+
+#forgot {
+    font-size: smaller;
+}
+
+footer {
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    border: 1px solid rgb(111, 119, 127);
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    transition: 1s;
+}
+
+#app {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#get1 {
+    width: 120px;
+}
+
+#get2 {
+    width: 120px;
+    height: 39px;
+}
+
+#imgs {
+    display: inline-block;
+    margin-left: 42%;
+}
+
+.botom {
+    text-align: center;
+}
+
+#foot {
+    margin-top: 60px;
+}

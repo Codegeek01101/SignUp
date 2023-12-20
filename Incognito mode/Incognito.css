@@ -1,0 +1,51 @@
+*{
+  background-color: #35363A;
+  color:#E8EaEd;
+  font: 14px arial;
+  text-align: left;
+  
+
+}
+#incognito-mode{
+  margin-top:100px;
+  text-align:center;
+
+
+}
+.ul{
+  margin-left:300px;
+  padding-left: 0;
+}
+
+
+a{
+  color:rgb(128, 128, 237);
+}
+  img{
+  height: 150px;
+  width:200px;
+  padding-left: 500px;
+    padding-right: 700px;
+  }
+  h1{
+    font-weight: normal;
+    text-align: center;
+    font-size: 22px;
+    color: #e8eaed;
+  
+}
+  ul{
+    display:inline-block;
+  }
+  .cookies{
+    width:600px;
+    height:84px;
+    border: 2px solid #3c4043;
+    border-radius: 5px;
+    background-color: #3c4043;
+    font-size:13px;
+    margin:0 0 24px;
+    padding: 12px 20px;
+    margin-left: 300px;
+    margin-right: 440px;
+  }
